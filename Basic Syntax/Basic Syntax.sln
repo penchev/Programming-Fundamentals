@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debit Card Number", "Debit Card Number\Debit Card Number.csproj", "{05714E55-1E5D-4956-BD47-B32CAE2DA870}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{D3C5DD28-9C33-4A70-92CA-A9104B779089}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{05714E55-1E5D-4956-BD47-B32CAE2DA870}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05714E55-1E5D-4956-BD47-B32CAE2DA870}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05714E55-1E5D-4956-BD47-B32CAE2DA870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3C5DD28-9C33-4A70-92CA-A9104B779089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C5DD28-9C33-4A70-92CA-A9104B779089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C5DD28-9C33-4A70-92CA-A9104B779089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C5DD28-9C33-4A70-92CA-A9104B779089}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
