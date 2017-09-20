@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilesToKilometres", "MilesToKilometres\MilesToKilometres.csproj", "{8527A030-7A9E-4601-91AA-ADFF7411E43E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeverageLabels", "BeverageLabels\BeverageLabels.csproj", "{5BBF884D-AB7C-40FD-8FC7-F64CF37B7804}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8527A030-7A9E-4601-91AA-ADFF7411E43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8527A030-7A9E-4601-91AA-ADFF7411E43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8527A030-7A9E-4601-91AA-ADFF7411E43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BBF884D-AB7C-40FD-8FC7-F64CF37B7804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BBF884D-AB7C-40FD-8FC7-F64CF37B7804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BBF884D-AB7C-40FD-8FC7-F64CF37B7804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BBF884D-AB7C-40FD-8FC7-F64CF37B7804}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
