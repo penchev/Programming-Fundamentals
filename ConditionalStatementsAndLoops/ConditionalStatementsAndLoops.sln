@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaloriesCounter", "Calories
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountTheIntegers", "CountTheIntegers\CountTheIntegers.csproj", "{DCF8B93E-73B3-4310-B933-88FAFC62512E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleOfNumbers", "TriangleOfNumbers\TriangleOfNumbers.csproj", "{9EE37AE0-7C23-4388-972D-5422F77C3843}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{DCF8B93E-73B3-4310-B933-88FAFC62512E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCF8B93E-73B3-4310-B933-88FAFC62512E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCF8B93E-73B3-4310-B933-88FAFC62512E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE37AE0-7C23-4388-972D-5422F77C3843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE37AE0-7C23-4388-972D-5422F77C3843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE37AE0-7C23-4388-972D-5422F77C3843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE37AE0-7C23-4388-972D-5422F77C3843}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
