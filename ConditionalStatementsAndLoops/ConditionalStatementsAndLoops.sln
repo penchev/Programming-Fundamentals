@@ -3,35 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChooseADrink", "ChooseADrink\ChooseADrink.csproj", "{3240DB62-B957-4499-9073-FA7BE5732FF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChooseADrink", "ChooseADrink\ChooseADrink.csproj", "{3240DB62-B957-4499-9073-FA7BE5732FF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChooseADrink2.0", "ChooseADrink2.0\ChooseADrink2.0.csproj", "{C16424AF-764C-4127-98DE-19FF49FB3F45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChooseADrink2.0", "ChooseADrink2.0\ChooseADrink2.0.csproj", "{C16424AF-764C-4127-98DE-19FF49FB3F45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantDiscount", "RestaurantDiscount\RestaurantDiscount.csproj", "{DEB7E1CF-26A4-4107-9955-83E88C89E343}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestaurantDiscount", "RestaurantDiscount\RestaurantDiscount.csproj", "{DEB7E1CF-26A4-4107-9955-83E88C89E343}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel", "Hotel\Hotel.csproj", "{8E3A67C6-75AF-4E87-A37D-AEBD259927A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel", "Hotel\Hotel.csproj", "{8E3A67C6-75AF-4E87-A37D-AEBD259927A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordInPlural", "WordInPlural\WordInPlural.csproj", "{F5A7ABE6-61D9-431E-8BCE-901EA4A98A80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordInPlural", "WordInPlural\WordInPlural.csproj", "{F5A7ABE6-61D9-431E-8BCE-901EA4A98A80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntervalOfNumbers", "IntervalOfNumbers\IntervalOfNumbers.csproj", "{80415944-A312-4D40-B747-8388A5041281}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntervalOfNumbers", "IntervalOfNumbers\IntervalOfNumbers.csproj", "{80415944-A312-4D40-B747-8388A5041281}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeIngredients", "CakeIngredients\CakeIngredients.csproj", "{F0AAD11B-32B9-41CC-8AF5-46A982E20BC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CakeIngredients", "CakeIngredients\CakeIngredients.csproj", "{F0AAD11B-32B9-41CC-8AF5-46A982E20BC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaloriesCounter", "CaloriesCounter\CaloriesCounter.csproj", "{1333CAC9-4716-422B-B550-DA018C114A70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaloriesCounter", "CaloriesCounter\CaloriesCounter.csproj", "{1333CAC9-4716-422B-B550-DA018C114A70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountTheIntegers", "CountTheIntegers\CountTheIntegers.csproj", "{DCF8B93E-73B3-4310-B933-88FAFC62512E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountTheIntegers", "CountTheIntegers\CountTheIntegers.csproj", "{DCF8B93E-73B3-4310-B933-88FAFC62512E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleOfNumbers", "TriangleOfNumbers\TriangleOfNumbers.csproj", "{9EE37AE0-7C23-4388-972D-5422F77C3843}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriangleOfNumbers", "TriangleOfNumbers\TriangleOfNumbers.csproj", "{9EE37AE0-7C23-4388-972D-5422F77C3843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveDifferentNumbers", "FiveDifferentNumbers\FiveDifferentNumbers.csproj", "{7837FA65-D5E9-4AE7-BF0C-37376DE56396}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiveDifferentNumbers", "FiveDifferentNumbers\FiveDifferentNumbers.csproj", "{7837FA65-D5E9-4AE7-BF0C-37376DE56396}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNumbers", "TestNumbers\TestNumbers.csproj", "{82840594-A212-4C7A-92E4-7695BD34910D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestNumbers", "TestNumbers\TestNumbers.csproj", "{82840594-A212-4C7A-92E4-7695BD34910D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfNumbers", "GameOfNumbers\GameOfNumbers.csproj", "{99CB64FC-F960-40BC-97C9-1F6A928D1E1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameOfNumbers", "GameOfNumbers\GameOfNumbers.csproj", "{99CB64FC-F960-40BC-97C9-1F6A928D1E1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicLetter", "MagicLetter\MagicLetter.csproj", "{85495F21-BFEB-41EC-86AB-9E797F615313}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicLetter", "MagicLetter\MagicLetter.csproj", "{85495F21-BFEB-41EC-86AB-9E797F615313}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeighbourWars", "NeighbourWars\NeighbourWars.csproj", "{C37D9369-4C46-4D8D-BCE0-62D956AEB3BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeighbourWars", "NeighbourWars\NeighbourWars.csproj", "{C37D9369-4C46-4D8D-BCE0-62D956AEB3BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{071771C5-68EA-4A16-8E25-5B669F7C43F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{C37D9369-4C46-4D8D-BCE0-62D956AEB3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C37D9369-4C46-4D8D-BCE0-62D956AEB3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C37D9369-4C46-4D8D-BCE0-62D956AEB3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071771C5-68EA-4A16-8E25-5B669F7C43F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071771C5-68EA-4A16-8E25-5B669F7C43F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071771C5-68EA-4A16-8E25-5B669F7C43F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071771C5-68EA-4A16-8E25-5B669F7C43F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
